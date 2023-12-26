@@ -1,34 +1,95 @@
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Kunal Kokate</h1>
-<h3 align="center">A passionate in VLSI Design, Cloud Servers, Linux Server Administration & Scripting, Networking protocols and Web Hosting. I am from Mumbai, India</h3>
+<h3 align="center">I am dedicated to work in the field of Digital VLSI System Design. Specifically open in the area of Physical Design, Design Automation, Design Verification, Circuit Design or Silicon Validation</h3>
 <img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalkokate&label=Profile%20views&color=0e75b6&style=flat" alt="kunalkokate" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalkokate" alt="kunalkokate" /></a> </p>
+# Education
 
-- 🔭 I’m currently working on **Server-Wide Troubleshooting and Monitoring the live production servers on which various Businesses are hosted online. I help the clients resolve their websites, databases, emails and server related issues. I also work on cloud platforms like Proxmox, VMware, OnAPP cloud to manage the servers and storage of data. I’ve helped many clients with Domains, Business Emails, and Hosting services to all the businesses out there on the Internet. Additionally, Proficient in Networking protocols like HTTP, HTTPS, FTP, SMTP, SSH, RDP.**
+## University of Minnesota, Twin Cities, MN, USA | Sept 2023 - May 2025
 
-- 🌱 I’m currently learning **AWS Cloud, Google Cloud Platform**
+**Master of Science in Electrical and Computer Engineering**
 
-- 💬 Ask me about **Linux, Servers, cPanel, WHM Panel, Data Centers, PHP, MySQL, Web hosting, DNS, Fortigate Firewall, Security SSL Installation**
+- **VLSI Design 1 (7nm ASAP7 FinFET, Characterization, Timing and Power Analysis): (Prof. Gerald Sobelman)**
+  - Description: In-depth study of 7nm process technology using ASAP7 PDK, focusing on FinFET devices, characterization, and analysis of timing and power aspects.
 
-- 📫 How to reach me **kunalkokate03@gmail.com**
+- **VLSI Design Automation 1 (Algorithms for Floorplanning, Placement, Routing and STA): (Prof. Kia Bazargan)**
+  - Description: Explored algorithms and methodologies for VLSI design automation, covering floorplanning, placement, routing, and static timing analysis (STA).
 
-- ⚡ Fun fact **I am introvert and still manage to get things done from people.**
+- **VLSI Design Labs (SAED 32nm, Synthesis, Floorplanning, PnR of Custom Design, Power Optimization, RTL2GDS Flow): (Prof. Gerald Sobelman)**
+  - Description: Hands-on experience with various aspects of VLSI design, including labs focused on the SAED 32nm process, synthesis, floorplanning, place and route of custom designs, power optimization, and RTL-to-GDS flow.
+- 💬 Ask me about **Physical Design, Automatic Place and Route, Custom IC Design, RTL2GDS, Static Timing Analysis**
+
+- 📫 How to reach me **kokat006@umn.edu**
+
+Feel free to reach out for more details on my academic projects and coursework!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunal-kokate-713223140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-kokate-713223140" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-kokate/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-kokate-713223140" height="30" width="40" /></a>
 <a href="https://instagram.com/kunnaaaallll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunnaaaallll" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://i.ytimg.com/vi/aHOouNJCFoI/maxresdefault.jpg" alt="verilog" width="40" height="40"/> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalkokate&show_icons=true&locale=en&layout=compact" alt="kunalkokate" /></p>
+<h3 align="left">Languages, Tools, and Physical Design:</h3>
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalkokate&show_icons=true&locale=en" alt="kunalkokate" /></p>
+  <!-- Hardware Description Languages -->
+  <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="verilog" width="40" height="40"/>
+  <img src="https://wiki.tcl-lang.org/image/Tcl%2FTk+Core+Logo+128" alt="tcl" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkokate&" alt="kunalkokate" /></p>
+  <!-- Operating System -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
+  <!-- Object-Oriented Programming (OOP) -->
+  <img src="https://as2.ftcdn.net/v2/jpg/02/45/49/65/1000_F_245496592_My2fQhKYdm1k4JRdYVtyJtuEHOBZxOXA.jpg" alt="oop" width="40" height="40"/>
+
+  <!-- Physical Design Tools -->
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Cadence-Logo.jpg" alt="Cadence" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Synopsys_Logo.svg/2560px-Synopsys_Logo.svg.png" alt="Synopsys" width="40" height="40"/>
+</p>
+
+# Projects
+
+Here are some of the key projects I have worked on:
+
+## Static Timing Analysis of Circuits | C++ | Nov 2023
+
+- Performed STA using topological graph algorithm & C++ STL on logical circuits in "ISCAS '85 High-Level Models."
+- Used LUTs based on the Non-Linear Delay Model (NLDM) to calculate the critical path, load capacitance, arrival time, slew, and slack of each node.
+
+## Placement using Simulated Annealing | C++ | Nov 2023
+
+- Performed Annealing-based placement on standard benchmarks (ISCAS85 and ITC99).
+- Swapped standard cells in two different rows to reduce the cost function - Half Perimeter Wire Length (HPWL).
+
+## Analyzed FinFET Device Characteristics and Simulations | Synopsys Hspice and Cadence Virtuoso | Nov 2023
+
+- Analyzed device characteristics (IV, Subthreshold swing, Gate tunneling leakage, Temperature Inversion, DIBL, Body Effect, and Short Channel Effect) in FinFETs using ASAP7 PDK.
+- Utilized Cadence Virtuoso and Hspice for the analysis.
+
+## Biometric Recognition Processor: O1D-DWT Chip | Tcl, Verilog, TestBench, Synopsys Design Vision, VCS | Oct 2023
+
+- Designed a 1 Dimensional Discrete Wavelet Transform component for processing binary fingerprint images.
+- Performed RTL2GDS flow, including Synthesis, Floorplanning, PnR to SignOff Analysis.
+
+## Accurate Determination of Logical Effort Parameters in ASAP7 | Cadence (Genus, Innovus, Virtuoso), Hspice | Oct 2023
+
+- Designed logic circuits for Inverter2, NAND3, and NOR2 with different fanouts.
+- Conducted synthesis, schematic, layout, and pre/post-layout simulations to calculate τ, g, and p parameters.
+
+## Custom Design of 99 Stage Ring Oscillator Schematic and Layout Design in 7nm FinFET | ASAP7 | Cadence Virtuoso (Schematic, Layout, Hspice, Cosmoscope) | Sept 2023
+
+- Designed a 99 Stage Ring Oscillator using CMOS Inverter with 4x drive strength from ASAP7 nm PDK.
+- Simulated frequency and power consumption under PVT conditions with clean DRC & LVS.
+
+## Automatic Layout Generation of N-stage Ring Oscillator | Cadence Genus, Innovus, Xcelium, Hspice | Sept 2023
+
+- Automated the layout generation of 99 and 149 Stage Ring Oscillator with a NAND gate for control.
+- Conducted clean DRC, LVS verification, and Hspice simulations for 99 & 149 stages.
 
