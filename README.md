@@ -57,6 +57,21 @@ Feel free to reach out for more details on my academic projects and coursework!
 # Projects
 
 Here are some of the key projects I have worked on:
+## Biometric Recognition Processor: O1D-DWT Chip (Physical Design Flow/RTL2GDS)| Verilog, Synopsys[DC, ICC2, VCS, PrimeTime] | Oct 2023
+
+- Designed a 1 Dimensional Discrete Wavelet Transform component to process binary fingerprint image of 16x1
+- It performed decomposition, downsampling, compression, and segregation of the data into different frequencies
+- Performed a complete RTL2GDS flow on this project, from Synthesis, Floorplanning, PnR to SignOff Analysis
+
+## Custom Design of 99 Stage Ring Oscillator Schematic and Layout Design in 7nm FinFET | ASAP7 | Cadence Virtuoso (Schematic, Layout, Hspice, Cosmoscope) | Sept 2023
+
+- Designed a 99 Stage Ring Oscillator using CMOS Inverter with 4x drive strength from ASAP7 nm PDK.
+- Simulated frequency and power consumption under PVT conditions with clean DRC & LVS.
+
+## Analyzed FinFET Device Characteristics and Simulations | Synopsys Hspice and Cadence Virtuoso | Nov 2023
+
+- Analyzed device characteristics (IV, Subthreshold swing, Gate tunneling leakage, Temperature Inversion, DIBL, Body Effect, and Short Channel Effect) in FinFETs using ASAP7 PDK.
+- Utilized Cadence Virtuoso and Hspice for the analysis.
 
 ## Static Timing Analysis of Circuits | C++ | Nov 2023
 
@@ -68,25 +83,10 @@ Here are some of the key projects I have worked on:
 - Performed Annealing-based placement on standard benchmarks (ISCAS85 and ITC99).
 - Swapped standard cells in two different rows to reduce the cost function - Half Perimeter Wire Length (HPWL).
 
-## Analyzed FinFET Device Characteristics and Simulations | Synopsys Hspice and Cadence Virtuoso | Nov 2023
-
-- Analyzed device characteristics (IV, Subthreshold swing, Gate tunneling leakage, Temperature Inversion, DIBL, Body Effect, and Short Channel Effect) in FinFETs using ASAP7 PDK.
-- Utilized Cadence Virtuoso and Hspice for the analysis.
-
-## Biometric Recognition Processor: O1D-DWT Chip | Tcl, Verilog, TestBench, Synopsys Design Vision, VCS | Oct 2023
-
-- Designed a 1 Dimensional Discrete Wavelet Transform component for processing binary fingerprint images.
-- Performed RTL2GDS flow, including Synthesis, Floorplanning, PnR to SignOff Analysis.
-
 ## Accurate Determination of Logical Effort Parameters in ASAP7 | Cadence (Genus, Innovus, Virtuoso), Hspice | Oct 2023
 
 - Designed logic circuits for Inverter2, NAND3, and NOR2 with different fanouts.
 - Conducted synthesis, schematic, layout, and pre/post-layout simulations to calculate τ, g, and p parameters.
-
-## Custom Design of 99 Stage Ring Oscillator Schematic and Layout Design in 7nm FinFET | ASAP7 | Cadence Virtuoso (Schematic, Layout, Hspice, Cosmoscope) | Sept 2023
-
-- Designed a 99 Stage Ring Oscillator using CMOS Inverter with 4x drive strength from ASAP7 nm PDK.
-- Simulated frequency and power consumption under PVT conditions with clean DRC & LVS.
 
 ## Automatic Layout Generation of N-stage Ring Oscillator | Cadence Genus, Innovus, Xcelium, Hspice | Sept 2023
 
